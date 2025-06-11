@@ -4,10 +4,15 @@ Create the Flutter project:
 ```bash
 flutter create colour_generator
 ```
+then:
+```bash
+cd colour_generator
+```
+
 Add dependencies:
 ```bash
-flutter pub add path\
-flutter pub add path_provider\
-flutter pub add sqflite\
+flutter pub add path|
+flutter pub add path_provider|
+flutter pub add sqflite|
 flutter pub add snackbar
 ```
